@@ -1,0 +1,2 @@
+Para el proyecto API se ha utilizado el framework de Karate. Con este framework ha sido muy facil implementar los
+escenarios de prueba ya que Karate brinda todos los metodos para realizar pruebas con APIs.
